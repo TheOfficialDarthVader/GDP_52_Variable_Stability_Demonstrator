@@ -16,5 +16,13 @@ The aerodynamics and flight dynamics work is contained in the following folders:
 - `full_system_simulink_model`
 - `stick_force_model`
 
+## CAD Models
+The CAD created as part of this project is in the `cad` folder.
+The assembly file `Final_CAD_Assembly.SLDASM` is the full assembly of all the subsystems.
+The CAD is broken into the subfolders:
+- `control_panel_cad`
+- `interior_cad`
+- `servo_rack_cad`
+
 ## Software
 The software for the project is available externally at: https://github.com/danns99/GDP-Arduino.
