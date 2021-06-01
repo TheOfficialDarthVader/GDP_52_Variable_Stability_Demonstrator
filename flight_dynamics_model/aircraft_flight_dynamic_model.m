@@ -1,8 +1,9 @@
 function[A,B,C,D,aircraft_constants]=aircraft_flight_dynamic_model(data_file_name,V,h_cg)
 %% author
 % Declan Clifford
-% please contact me at declan.clifford01@gmail.com for questions relating
-% to this code
+
+%% project supevisor
+% Professor Keith Towell
 
 %% description
 % this code calculates the aerodynamic stability and control derivatives
